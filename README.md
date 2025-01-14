@@ -8,3 +8,4 @@
 
   ## Connect with me: https://www.linkedin.com/in/damian-alejandro-gey-8772a6136/
 
+  ## Languages and Tools: Javascript / Css / React / Node.js / Angular / SQL server / PHP / Wordpress / WebFlow / GIT
