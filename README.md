@@ -8,4 +8,4 @@
 
   ## Connect with me: https://portafolio-damian.netlify.app
 
-  ## Languages and Tools: Javascript / React.Js / Node.js / Angular.js / Vue.js / SQLserver / Docker / Kubernetes
+  ## Languages and Tools: Javascript / React.Js / Node.js / Angular.js / Vue.js / SQLserver / Docker / Kubernetes / Microsoft Azure
