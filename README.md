@@ -8,4 +8,4 @@
 
   ## Connect with me: https://idyllic-panda-f10b2a.netlify.app
 
-  ## Languages and Tools: Javascript / React.Js / Node.js / Angular.js / Vue.js / SQLserver / Docker / Microsoft Azure
+  ## Languages and Tools: Javascript / React.Js / Node.js / Angular.js / SQLserver / Docker / AWS
