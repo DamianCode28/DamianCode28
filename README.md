@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Javascript, ReactJS, NodeJS, Angular.JS, Vue.JS, Docker, Microsoft Azure, Typescript, Linux
+- 🌱 I’m currently learning Javascript, ReactJS, NodeJS, Docker, SQL, Python , AWS , IA Engineer
 - 💬 Ask me about Javascript, ReactJS, NodeJS, SQLserver
 - 📫 How to reach me: damignr02@gmail.com
 
