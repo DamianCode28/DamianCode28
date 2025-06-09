@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Javascript, Typescript, ReactJS, NodeJS, SQL, Python , AWS , IA Engineer
+- 🌱 I’m currently learning Javascript, Typescript, ReactJS, NodeJS, SQL, Python ,.NET , IA Engineer
 - 💬 Ask me about Javascript, ReactJS, NodeJS, SQLserver
 - 📫 How to reach me: damignr02@gmail.com
 
