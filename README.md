@@ -2,10 +2,17 @@
 
 
 
-- 🌱 I’m currently learning Javascript, ReactJS, NodeJS, Docker, SQL, Python , AWS , IA Engineer
+- 🌱 I’m currently learning Javascript, ReactJS, NodeJS, SQL, Python , AWS , IA Engineer
 - 💬 Ask me about Javascript, ReactJS, NodeJS, SQLserver
 - 📫 How to reach me: damignr02@gmail.com
 
-  ## Connect with me: https://idyllic-panda-f10b2a.netlify.app
 
-  ## Languages and Tools: Javascript / Python / React.Js / Node.js / Angular.js / SQLserver / Docker / AWS
+  ## Languages and Tools: Javascript / Python / React /Vue.js / Node.js / Angular.js / SQLserver 
+
+### Github Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DamianCode28&hide_border=FALSO&short_numbers=FALSO)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
