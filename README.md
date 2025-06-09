@@ -14,18 +14,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+
 </div>
 
 ###
-
-
-- 🌱 I’m currently learning Javascript, Typescript, ReactJS, NodeJS, SQL, Python ,.NET , IA Engineer
-- 💬 Ask me about Javascript, ReactJS, NodeJS, SQLserver
-- 📫 How to reach me: damignr02@gmail.com
-
-
-  ## Languages and Tools: Javascript / Python / React /Vue.js / Node.js / Angular.js / SQLserver 
 
 ### Github Stats
 
