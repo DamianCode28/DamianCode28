@@ -4,7 +4,7 @@
 
 ###
 
-## Hi there 👋 Soy Damian Gey
+## Hi there 👋 Soy Damian Alejandro Gey
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
