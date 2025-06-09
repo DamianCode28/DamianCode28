@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Soy de Argentina <br><br>- 🔭 Estoy trabajando como desarrollador web Freelance <br>- 📚 Actualmente me encuentro estudiando para AI engineer <br>- ⚡ In my free time I ...</p>
+<p align="left">Soy de Argentina <br><br>- 🔭 Estoy trabajando como desarrollador web Freelance <br>- 📚 Actualmente me encuentro estudiando para AI engineer <br>- ⚡ En mi tiempo libre me dedico a stremear sobre videojuegos</p>
 
 ###
 
