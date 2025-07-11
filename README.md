@@ -8,7 +8,7 @@
 <p align="left">Soy de Argentina <br><br>- 🔭 Estoy trabajando como desarrollador web Freelance <br>- 📚 Actualmente me encuentro estudiando para AI engineer <br>- ⚡ En mi tiempo libre me dedico a stremear sobre videojuegos</p>
 
 ###
-HTMÑ / CSS / JAVASCRIPT / REACT.JS / NODE.JS / PHP / MYSQL / PYTHON / DJANGO / AWS
+|| Java | Python | Node JS | React | Django | MySQL | Go
 
 
 ###
