@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">Soy de Argentina <br><br>- 🔭 Estoy trabajando como desarrollador web Freelance <br>- 📚 Actualmente me encuentro estudiando para AI engineer <br>- ⚡ En mi tiempo libre me dedico a stremear sobre videojuegos</p>
+<p align="left">Soy de Argentina <br><br>- 🔭 Estoy trabajando como desarrollador web Freelance <br>- 📚 Ingeniero en Inteligencia Artificial Junior con sólidos conocimientos en aprendizaje automático, procesamiento de datos y desarrollo de modelos predictivos. Me especializo en la implementación de soluciones basadas en Python, utilizando bibliotecas como TensorFlow, PyTorch, Keras y Scikit-learn. <br>- ⚡ En mi tiempo libre me dedico a stremear sobre videojuegos</p>
 
 ###
 || Javascript | Python | Node JS | React | Django | MySQL | Go
