@@ -5,9 +5,9 @@
 
 ###
 
-<p align="left">Soy de Argentina <br><br>- 🔭 Trabajo en el desarrollo de interfaces web modernas y funcionales utilizando JavaScript, HTML y CSS. Me enfoco en crear experiencias de usuario intuitivas y responsive, implementando buenas prácticas de código y diseño.  <br><br>- 📚 Ingeniero en Inteligencia Artificial Junior con sólidos conocimientos en aprendizaje automático, procesamiento de datos y desarrollo de modelos predictivos. Me especializo en la implementación de soluciones basadas en Python, utilizando bibliotecas como TensorFlow, PyTorch, Keras y Scikit-learn. <br><br>
+<p align="left">Soy de Argentina <br><br>- 🔭 Trabajo en el desarrollo de interfaces web modernas y funcionales utilizando JavaScript, HTML y CSS. Me enfoco en crear experiencias de usuario intuitivas y responsive, implementando buenas prácticas de código y diseño.  <br><br>- 📚 Ingeniero en Inteligencia Artificial Junior con sólidos conocimientos en aprendizaje automático, procesamiento de datos y desarrollo de modelos predictivos. Me especializo en la implementación de soluciones basadas en Python, utilizando bibliotecas como TensorFlow, PyTorch, Keras y Scikit-learn. <br>
 
-- 🛠 Skills
+<br>- 🛠 Skills
  || Javascript | Python | Django | Node.JS | React | MySQL | Go | Wordpress
 
 
