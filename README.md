@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🇦🇷Soy de Argentina <br><br>- 🧑‍💻 Hola, soy Damian, Desarrollador Full Stack con 4 años de experiencia en el desarrollo de interfaces web modernas y funcionales utilizando JavaScript, HTML y CSS. Me enfoco en crear experiencias de usuario intuitivas y responsive, implementando buenas prácticas de código y diseño.He trabajado con frameworks/librerías como React y consumo de APIs REST para construir aplicaciones dinámicas y escalables.  <br><br>
+<p align="left"> Soy de Argentina <br><br>- 🧑‍💻 Hola, soy Damian, Desarrollador Full Stack con 4 años de experiencia en el desarrollo de interfaces web modernas y funcionales utilizando JavaScript, HTML y CSS. Me enfoco en crear experiencias de usuario intuitivas y responsive, implementando buenas prácticas de código y diseño.He trabajado con frameworks/librerías como React y consumo de APIs REST para construir aplicaciones dinámicas y escalables.  <br><br>
 -🧑‍🎓Actualmente estoy aprendiendo Computer Sciencey Software Engineering.Especializacion en  implementación de soluciones basadas en Python, utilizando bibliotecas como TensorFlow, PyTorch, Keras y Scikit-learn.
 
 <br>- 🛠 Skills
