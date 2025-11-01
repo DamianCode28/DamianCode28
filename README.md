@@ -9,8 +9,8 @@
 ###
 
 <p align="left"> 📍Soy de Buenos Aires - Argentina <br><br>- 🧑‍💻 Ingeniero en formación apasionado por la Inteligencia Artificial y el análisis de datos. Cuento con experiencia desarrollando modelos de clasificación y regresión en Python utilizando scikit-learn y TensorFlow. Busco integrarme en un equipo donde pueda aplicar técnicas de machine learning para mejorar procesos y seguir creciendo profesionalmente.  <br><br>
-📊 Bibliotecas y frameworks: Pandas, TensorFlow, Matplotlib, Pytorch.
-☁️ Herramientas / Infraestructura: Git, Jupyter Notebook.
+-📊 Bibliotecas y frameworks: Pandas, TensorFlow, Matplotlib, Pytorch.<br>
+-☁️ Herramientas / Infraestructura: Git, Jupyter Notebook.
 
 <br>- 🛠 Skills
  <br>
