@@ -8,8 +8,9 @@
 
 ###
 
-<p align="left"> 📍Soy de Buenos Aires - Argentina <br><br>- 🧑‍💻 Desarrollador Full Stack con 4 años de experiencia en el desarrollo de interfaces web modernas y funcionales utilizando JavaScript, HTML y CSS. Me enfoco en crear experiencias de usuario intuitivas y responsive, implementando buenas prácticas de código y diseño.He trabajado con frameworks/librerías como React y consumo de APIs REST para construir aplicaciones dinámicas y escalables.  <br><br>
--🧑‍🎓Actualmente estoy aprendiendo Computer Sciencey Software Engineering.Especializacion en  implementación de soluciones basadas en Python, utilizando bibliotecas como TensorFlow, PyTorch, Keras y Scikit-learn.
+<p align="left"> 📍Soy de Buenos Aires - Argentina <br><br>- 🧑‍💻 Ingeniero en formación apasionado por la Inteligencia Artificial y el análisis de datos. Cuento con experiencia desarrollando modelos de clasificación y regresión en Python utilizando scikit-learn y TensorFlow. Busco integrarme en un equipo donde pueda aplicar técnicas de machine learning para mejorar procesos y seguir creciendo profesionalmente.  <br><br>
+📊 Bibliotecas y frameworks: Pandas, TensorFlow, Matplotlib, Pytorch.
+☁️ Herramientas / Infraestructura: Git, Jupyter Notebook.
 
 <br>- 🛠 Skills
  <br>
