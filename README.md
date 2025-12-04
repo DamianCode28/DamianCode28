@@ -8,7 +8,9 @@
 
 ###
 
-<p align="left"> 📍Soy de Buenos Aires - Argentina <br><br>- 🧑‍💻 Ingeniero en formación apasionado por la Inteligencia Artificial y el análisis de datos. Cuento con experiencia desarrollando modelos de clasificación y regresión en Python utilizando scikit-learn y TensorFlow. Busco integrarme en un equipo donde pueda aplicar técnicas de machine learning para mejorar procesos y seguir creciendo profesionalmente.  <br><br>
+<p align="left"> 📍Soy de Buenos Aires - Argentina <br><br>- 🧑‍💻
+Ingeniero de Inteligencia Artificial y Full Stack Developer con experiencia en el diseño, desarrollo e implementación de soluciones basadas en machine learning, deep learning y sistemas de software escalables.Conocimientos en optimización de modelos, APIs, microservicios y desarrollo web end-to-end. Capacidad para trabajar tanto en proyectos de investigación como en entornos productivos de alto rendimiento.Apasionado por la automatización, el procesamiento de datos y la creación de aplicaciones inteligentes que mejoren procesos y experiencias de usuario.  <br><br>
+	
 -📊 Bibliotecas y frameworks: Pandas, TensorFlow, Matplotlib, Pytorch.<br>
 -☁️ Herramientas / Infraestructura: Git, Jupyter Notebook.
 
