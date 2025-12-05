@@ -5,20 +5,17 @@
 
 ## Hi there 👋 Soy Damian Alejandro Gey
 <h3 align="left">🚀 About Me</h3>
-
 ###
-<p align="left"> 📍Soy de Buenos Aires - Argentina <br><br>- 
-	
-🧑‍💻Un Developer Jr con enfoque en el desarrollo de APIs, aplicaciones web y soluciones escalables.
+
+<p align="left"> 📍Soy de Buenos Aires - Argentina <br><br>
+	🧑‍💻Un Developer Jr con enfoque en el desarrollo de APIs, aplicaciones web y soluciones escalables.
 Manejo tecnologías como Node.js, JavaScript, Python, React y SQL.
 Tambien con conocimiento en el diseño, desarrollo e implementación de soluciones basadas en machine learning, deep learning y sistemas de software escalables.Comprometido con el aprendizaje continuo y el crecimiento profesional en entornos tecnológicos. 
 <br><br>
 	
-
 <br>- 🛠 Skills
  <br>
 ###
-
 <div align="left">
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
