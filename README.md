@@ -7,12 +7,13 @@
 <h3 align="left">🚀 About Me</h3>
 
 ###
-
-<p align="left"> 📍Soy de Buenos Aires - Argentina <br><br>- 🧑‍💻
-Ingeniero de Inteligencia Artificial y Full Stack Developer con experiencia en el diseño, desarrollo e implementación de soluciones basadas en machine learning, deep learning y sistemas de software escalables.Conocimientos en optimización de modelos, APIs, microservicios y desarrollo web end-to-end. Capacidad para trabajar tanto en proyectos de investigación como en entornos productivos de alto rendimiento.Apasionado por la automatización, el procesamiento de datos y la creación de aplicaciones inteligentes que mejoren procesos y experiencias de usuario.  <br><br>
+<p align="left"> 📍Soy de Buenos Aires - Argentina <br><br>- 
 	
--📊 Bibliotecas y frameworks: Pandas, TensorFlow, Matplotlib, Pytorch.<br>
--☁️ Herramientas / Infraestructura: Git, Jupyter Notebook.
+🧑‍💻Un Developer Jr con enfoque en el desarrollo de APIs, aplicaciones web y soluciones escalables.
+Manejo tecnologías como Node.js, JavaScript, Python, React y SQL.
+Tambien con conocimiento en el diseño, desarrollo e implementación de soluciones basadas en machine learning, deep learning y sistemas de software escalables.Comprometido con el aprendizaje continuo y el crecimiento profesional en entornos tecnológicos. 
+<br><br>
+	
 
 <br>- 🛠 Skills
  <br>
