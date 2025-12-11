@@ -8,9 +8,7 @@
 ###
 
 <p align="left"> 📍Soy de Buenos Aires - Argentina <br><br>
-	🧑‍💻Un Developer Jr con enfoque en el desarrollo de APIs, aplicaciones web y soluciones escalables.
-Manejo tecnologías como Node.js, JavaScript, Python, React y SQL.
-Tambien con conocimiento en el diseño, desarrollo e implementación de soluciones basadas en machine learning, deep learning y sistemas de software escalables.Comprometido con el aprendizaje continuo y el crecimiento profesional en entornos tecnológicos. 
+	🧑‍💻un Back-End Developer Jr. con enfoque en el desarrollo de APIs, aplicaciones web y soluciones escalables. Manejo tecnologías como Node.js, Python, Java, PHP y SQL. También cuento con conocimientos en el diseño, desarrollo e implementación de soluciones basadas en machine learning, deep learning y sistemas de software escalables. Comprometido con el aprendizaje continuo y el crecimiento profesional en entornos tecnológicos.
 <br><br>
 	
 <br>- 🛠 Skills
