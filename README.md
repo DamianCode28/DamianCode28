@@ -4,7 +4,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 
-<h3 align="left">🚀  Desarrollador Backend | Microservicios y APIs REST | Java, Spring Boot | PostgreSQL, Docker, Kubernetes, Git, GitHub, Maven | CI/CD |</h3>
+<h3 align="left">🚀 Microservicios y APIs REST | Java, Spring Boot | PostgreSQL, Docker, Kubernetes, Git, GitHub, Maven | CI/CD |</h3>
 
 
 <p align="left"> 📍Soy de Buenos Aires - Argentina <br><br>
