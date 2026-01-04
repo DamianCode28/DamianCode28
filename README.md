@@ -8,7 +8,7 @@
 ###
 
 <p align="left"> 📍Soy de Buenos Aires - Argentina <br><br>
-	🧑‍💻un Back-End Developer con enfoque en el desarrollo de APIs, aplicaciones web y soluciones escalables. Manejo tecnologías como Java, SpringBoot, Python, Django, Node.js y MySql. También cuento con conocimientos en el diseño, desarrollo e implementación de soluciones basadas en machine learning, deep learning, automatizaciones y sistemas de software escalables. Comprometido con el aprendizaje continuo y el crecimiento profesional en entornos tecnológicos.
+	🧑‍💻Desarrollador Back-End, con experiencia en el desarrollo de aplicaciones orientadas a servicios, enfocadas en la escalabilidad, el rendimiento y la correcta estructuración del código.Manejo tecnologías como Java, Node.js y Python, utilizando frameworks como Spring Boot y Django para la construcción de APIs REST y arquitecturas basadas en microservicios.Además, tengo experiencia en la gestión de bases de datos relacionales utilizando MySQL y MongoDB, asegurando integridad, eficiencia y correcta modelación de los datos.
 <br><br>
 	
 <br>- 🛠 Skills
