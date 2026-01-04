@@ -5,10 +5,10 @@
 
 ## Hi there 👋 Soy Damian Alejandro Gey
 <h3 align="left">🚀 About Me</h3>
-###
+
 
 <p align="left"> 📍Soy de Buenos Aires - Argentina <br><br>
-	🧑‍💻Desarrollador Back-End, con experiencia en el desarrollo de aplicaciones orientadas a servicios, enfocadas en la escalabilidad, el rendimiento y la correcta estructuración del código.Manejo tecnologías como Java, Node.js y Python, utilizando frameworks como Spring Boot y Django para la construcción de APIs REST y arquitecturas basadas en microservicios.Además, tengo experiencia en la gestión de bases de datos relacionales utilizando MySQL y MongoDB, asegurando integridad, eficiencia y correcta modelación de los datos.
+🧑‍💻Desarrollador Back-End, con experiencia en el desarrollo de aplicaciones orientadas a servicios, enfocadas en la escalabilidad, el rendimiento y la correcta estructuración del código.Manejo tecnologías como Java, Node.js y Python, utilizando frameworks como Spring Boot y Django para la construcción de APIs REST y arquitecturas basadas en microservicios.Además, tengo experiencia en la gestión de bases de datos relacionales utilizando MySQL y MongoDB, asegurando integridad, eficiencia y correcta modelación de los datos.
 <br><br>
 	
 <br>- 🛠 Skills
