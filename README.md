@@ -15,8 +15,6 @@
 
 📫 Cómo comunicarse conmigo **damignr02gmail.com**
 
-📄Conoce mis experiencias <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" objetivo="blanco">Reanudar</a>
-<es/>
 
 ##
 <!-- Connect with me -->
