@@ -17,9 +17,10 @@
 
 📄Conoce mis experiencias Resumen
 
--📄Conoce mis experiencias <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" objetivo="blanco">Reanudar</a>
+📄Conoce mis experiencias <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" objetivo="blanco">Reanudar</a>
 <es/>
 
+##
 
 
 
