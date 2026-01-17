@@ -4,11 +4,12 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 
-<h3 align="left">🚀 Microservicios y APIs REST | Java, Spring Boot | PostgreSQL, Docker, Kubernetes, Git, GitHub, Maven | CI/CD |</h3>
+<h3 align="left">🚀| Javascript | React | NodeJS | MySql | Docker | Kubernetes | AWS | FIGMA | UX/UI | APIs REST |
+</h3>
 
 
 <p align="left"> 📍Soy de Buenos Aires - Argentina <br><br>
-🧑‍💻Desarrollador Back-End, con experiencia en el desarrollo de aplicaciones orientadas a servicios, enfocadas en la escalabilidad, el rendimiento y la correcta estructuración del código.Manejo tecnologías como Java, Node.js y Python, utilizando frameworks como Spring Boot y Django para la construcción de APIs REST y arquitecturas basadas en microservicios.Además, tengo experiencia en la gestión de bases de datos relacionales utilizando MySQL y MongoDB, asegurando integridad, eficiencia y correcta modelación de los datos.
+🧑‍💻Desarrollador Front End con experiencia en JavaScript y React, enfocado en crear interfaces modernas, funcionales y centradas en el usuario. Trabajo con Node.js y bases de datos SQL para integrar aplicaciones escalables y eficientes. Cuento con conocimientos en UX/UI, utilizando Figma para diseñar experiencias intuitivas que combinan estética y usabilidad. Apasionado por el aprendizaje continuo y la mejora constante del producto digital.
 <br><br>
 
 🌱Actualmente estoy trabajando en Apis de Microservicios en Java + Spring Boot
