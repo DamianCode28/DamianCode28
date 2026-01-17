@@ -12,7 +12,7 @@
 🧑‍💻Desarrollador Front End con experiencia en JavaScript y React, enfocado en crear interfaces modernas, funcionales y centradas en el usuario. Trabajo con Node.js y bases de datos SQL para integrar aplicaciones escalables y eficientes. Cuento con conocimientos en UX/UI, utilizando Figma para diseñar experiencias intuitivas que combinan estética y usabilidad. Apasionado por el aprendizaje continuo y la mejora constante del producto digital.
 <br><br>
 
-🌱Actualmente estoy trabajando en Apis de Microservicios en Java + Spring Boot
+🌱Actualmente estoy trabajando en APIs RESTful en Javascript + ReactJs + NodeJs
 
 📫 Cómo comunicarse conmigo **damignr02gmail.com**
 
