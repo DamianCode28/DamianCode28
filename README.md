@@ -4,7 +4,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 
-<h3 align="left">🚀| Javascript | React | NodeJS | MySql | Docker | Kubernetes | AWS | FIGMA | UX/UI | APIs REST |
+<h3 align="left">🚀| Javascript | React | NodeJS | MySql | Wordpress | Python | FIGMA | UX/UI | APIs REST |
 </h3>
 
 
